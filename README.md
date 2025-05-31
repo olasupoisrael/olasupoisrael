@@ -4,7 +4,6 @@ I approach data like a psychologist studies the mind—decoding its behaviors to
 
 ## 🚀 About Me
 
-- **Analytics Enthusiast | Dashboard Designer | Data Mentor**
 - My analytics journey began as a self-taught enthusiast, driven by curiosity to solve real-world problems.
 - At **OneHealthNG**, I leveraged Looker Studio, Google Sheets, and QuickBooks to streamline processes—boosting efficiency by 10%.
 - Designed insightful **Power BI** dashboards for a retail client, driving a 15% increase in sales through actionable insights.
