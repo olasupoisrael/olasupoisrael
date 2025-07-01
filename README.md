@@ -41,6 +41,7 @@ I approach data like a psychologist studies the mind—decoding its behaviors to
   </a>
 </p>
 
+
 ---
 
 > “I approach data like a psychologist studies the mind, decoding its behaviors to reveal meaningful insights.”
