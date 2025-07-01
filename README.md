@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Israel Olasupo
+Hello I'm Israel Olasupo
 
 I approach data like a psychologist studies the mind—decoding its behaviors to reveal meaningful insights. As a certified Alteryx Designer, I channel this passion into creating data-driven dashboards that unlock efficiency and growth.
 
@@ -7,7 +7,7 @@ I approach data like a psychologist studies the mind—decoding its behaviors to
 - My analytics journey began as a self-taught enthusiast, driven by curiosity to solve real-world problems.
 - At **OneHealthNG**, I leveraged Looker Studio, Google Sheets, and QuickBooks to streamline processes—boosting efficiency by 10%.
 - Designed insightful **Power BI** dashboards for a retail client, driving a 15% increase in sales through actionable insights.
-- As a mentor at **Techy Jaunt**, I’ve trained 500+ students in analytics, sharing expertise in Python, SQL, Excel, and data visualization to empower the next generation of analysts.
+- As a mentor at **Techy Jaunt**, I’ve trained 1000+ students in analytics, sharing expertise in Python, SQL, Excel, and data visualization to empower the next generation of analysts.
 - I thrive on making an impact—whether teaching, analyzing, or building solutions that create real value.
 
 ## 🛠️ Top Skills
