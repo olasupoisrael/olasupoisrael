@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Israel Olasupo (olasupoisrael)
+# 👋 Hi, I'm Israel Olasupo
 
 I approach data like a psychologist studies the mind—decoding its behaviors to reveal meaningful insights. As a certified Alteryx Designer, I channel this passion into creating data-driven dashboards that unlock efficiency and growth.
 
