@@ -44,5 +44,3 @@ I approach data like a psychologist studies the mind—decoding its behaviors to
 ---
 
 > “I approach data like a psychologist studies the mind, decoding its behaviors to reveal meaningful insights.”
-
-Let’s connect, collaborate, and turn data into your next big opportunity!
