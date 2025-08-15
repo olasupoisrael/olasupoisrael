@@ -1,14 +1,22 @@
-Hello I'm Israel Olasupo
+👋 Hello I'm Israel Olasupo
 
-I approach data like a psychologist studies the mind—decoding its behaviors to reveal meaningful insights. As a certified Alteryx Designer, I channel this passion into creating data-driven dashboards that unlock efficiency and growth.
+I build with data, solve business problems with it, and help others do the same. Now I’m ready to bring that impact into your team.
 
-## 🚀 About Me
+I approach data like a psychologist studies the mind — decoding patterns, revealing insights, and driving smarter decisions.
 
-- My analytics journey began as a self-taught enthusiast, driven by curiosity to solve real-world problems.
-- At **OneHealthNG**, I leveraged Looker Studio, Google Sheets, and QuickBooks to streamline processes—boosting efficiency by 10%.
-- Designed insightful **Power BI** dashboards for a retail client, driving a 15% increase in sales through actionable insights.
-- As a mentor at **Techy Jaunt**, I’ve trained 1000+ students in analytics, sharing expertise in Python, SQL, Excel, and data visualization to empower the next generation of analysts.
-- I thrive on making an impact—whether teaching, analyzing, or building solutions that create real value.
+As a certified Alteryx Designer and self-taught Data Analyst, I’ve delivered results across healthcare, construction, retail, and coaching. Whether it's streamlining operations or mentoring the next generation of analysts, I thrive at the intersection of problem-solving and impact.
+
+- At a healthcare company, I used Looker Studio, Google Sheets, and QuickBooks to boost operational efficiency by 10%.
+
+- At a construction company, I transformed a  supplier database into an interactive Looker Studio dashboard — enabling instant visibility into supplier location, product grade, and manufacturer status etc...
+
+- For a retail business, I designed Power BI dashboards that drove a 15% increase in sales through actionable insights.
+
+- For a certified coach and speaker, I restructured Excel data into a clean reporting system to track attendee countries, registrations, and engagement giving visibility into his global audience.
+
+---
+
+> ### 📊 Beyond client projects, I’m passionate about data education. At Techy Jaunt, I’ve trained 1,000+ students across Africa in Python, SQL, Excel, Power BI, and AI tools, helping them launch data careers through hands-on learning and real-world application.
 
 ## 🛠️ Top Skills
 
@@ -44,4 +52,3 @@ I approach data like a psychologist studies the mind—decoding its behaviors to
 
 ---
 
-> “I approach data like a psychologist studies the mind, decoding its behaviors to reveal meaningful insights.”
